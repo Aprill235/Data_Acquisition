@@ -1,5 +1,78 @@
 ---
 title: "About"
+image: IMG_9264.PNG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/april-baik-64b23230b/
+    - icon: github
+      text: Github
+      href: https://github.com/Aprill235
 ---
 
-About this site
+Hi! I'm April Baik, an undergraduate student at Brigham Young University pursuing a B.S. in Statistics with a Data Science Emphasis and a minor in Computer Science.
+
+I'm particularly interested in **artificial intelligence and statistical modeling**, especially how data-driven methods can be used to develop and evaluate reliable AI systems.
+
+Currently, I work as a Research Assistant, developing AI-powered tools to support programming education, and as a Teaching Assistant for Statistical Modeling I. Through these experiences, I've been exploring both the technical side of building AI applications and the statistical methods needed to evaluate their performance.
+
+Outside of academics, I enjoy playing guitar, baking, drawing, and watching anime.
+
+## Education
+
+**Brigham Young University** \| Provo, UT\
+B.S. in Statistics — Data Science Emphasis\
+Minor in Computer Science \| Expected April 2028
+
+- GPA: 4.00/4.00
+
+- Honors: Brigham Young Scholarship, Academic Scholarship 2026, Dean's List
+
+- Relevant Coursework: Statistical Modeling, Linear Algebra, Probability and Inference, Calculus, and Computer Science
+
+## Experience
+
+### Research Assistant — AI in Education
+
+**Brigham Young University \| March 2026 – Present**
+
+I develop AI-powered tools designed to support students in programming and data science courses. My work focuses on building reliable workflows with large language models (LLMs), improving how AI systems interpret student code, and evaluating the quality of AI-generated feedback.
+
+One of my primary projects is **AEGIS**, an AI-powered code review system developed for STAT 386. The application analyzes students' GitHub repositories and generates structured feedback to help them identify issues and improve their code.
+
+My responsibilities include:
+
+- **LLM integration:** Developing an AI evaluation pipeline using LangChain and locally hosted language models, including Gemma and Qwen.
+- **Structured outputs:** Implementing Pydantic-based output validation and line-range matching to produce consistent, actionable code review suggestions.
+- **Model evaluation:** Comparing language models based on response quality, processing efficiency, and privacy considerations.
+- **Rubric-based evaluation:** Working on a grading workflow that evaluates student assignments against predefined rubrics and compares AI-generated assessments with teaching assistants' evaluations.
+
+Through this research, I've gained hands-on experience with Python, LangChain, LLM evaluation, and AI application development. It has also strengthened my interest in understanding how statistical methods can be used to measure the reliability and consistency of AI-generated results.
+
+### Teaching Assistant — Statistical Modeling I
+
+**Brigham Young University \| September 2026 – Present**
+
+As a Teaching Assistant for Statistical Modeling I, I help undergraduate students understand statistical concepts and apply them to real-world data analysis.
+
+My responsibilities include:
+
+- Assisting students with data analysis and statistical programming in **R and Positron**.
+- Explaining statistical concepts, including analysis of variance (ANOVA), experimental design, confidence intervals, and regression modeling.
+- Grading assignments and providing constructive feedback on students' statistical reasoning, interpretations, and use of statistical methods.
+- Helping students troubleshoot code and understand how statistical results relate to their research questions.
+
+This role has strengthened both my statistical foundation and my ability to communicate technical concepts clearly. Working with students has also shown me how the same dataset can lead to different interpretations and why careful statistical reasoning is essential.
+
+### High School Math Tutor
+
+**BYU Student Success Center \| January 2026 – May 2026**
+
+I provided individualized mathematics tutoring and academic support to high school students through in-person and virtual sessions.
+
+- Supported and monitored the academic progress of more than 400 students.
+- Developed supplemental learning materials using Canva and PowerPoint.
+- Tracked student performance and course progress using Excel.
+- Helped students strengthen their understanding of mathematical concepts through personalized explanations and practice.

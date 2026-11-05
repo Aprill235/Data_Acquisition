@@ -23,7 +23,7 @@ We can describe this relationship using linear model:
 
 $Y_i=\beta_0+\beta_1X_{i1}+\beta_2X_{i2}+\beta_3X_{i3}+\varepsilon_i$
 
-In machine learning, features are represented by `X`, and the target is represented by Y. ![Relationship between features, a machine-learning model, and a predicted target.](images/Supervised Learning Flowchart-2.png){#fig-ml-flow}
+In machine learning, features are represented by `X`, and the target is represented by Y. ![Relationship between features, a machine-learning model, and a predicted target.](/images/Supervised Learning Flowchart-2.png){#fig-ml-flow}
 
 An important distinction is that **a variable is not automatically a feature or target based on its name or data type. Its role depends on the prediction question.**
 
