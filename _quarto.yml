@@ -7,8 +7,6 @@ website:
   title: "April Baik"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
       - href: posts/features-targets/index.qmd
